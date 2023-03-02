@@ -1,0 +1,10 @@
+span{
+  color: orange;
+}
+
+.container4{
+  background-image: url(images/slider/6.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
